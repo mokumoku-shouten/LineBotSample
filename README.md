@@ -6,6 +6,8 @@ LINEからテキストを送信すると、「テスト」という文字を返�
 
 # Setup
 https://mokumoku.blog/java-line-bot-build-01
+https://mokumoku.blog/java-line-bot-build-02
+https://mokumoku.blog/java-line-bot-build-03
 
 # Dependency
 Java 11  
