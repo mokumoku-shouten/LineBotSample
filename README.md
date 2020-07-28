@@ -1,5 +1,5 @@
 # LineBotAwsRekognitionSample
-LINEからテキストを送信すると、「テスト」という文字を返すプログラムです。
+LINEからテキストを送信すると、「テスト」という文字を返ってくるプログラムです。
 
 # Description
 ![Screenshot](line-bot.png)
